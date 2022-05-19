@@ -131,8 +131,4 @@
     $('.venobox').venobox();
   });
 
-  // Alert for Berry Mill campaign
-  setTimeout(function(){
-    $('.alert').alert('close')}, 7000);
-
 })(jQuery);
